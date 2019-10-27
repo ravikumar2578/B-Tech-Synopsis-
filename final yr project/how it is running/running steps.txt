@@ -1,0 +1,1 @@
+this project running to need to install jdk 1.7(32bit),and eclipse 32bit .it can't run on jdk 1.8 and jdk 1.7 (64)bit.
